@@ -79,7 +79,7 @@ oclResult(context, wait = TRUE)
   \code{\link{oclSimpleKernel}}, \code{\link{clFloat}}
 }
 \examples{
-library(OpenCL)
+library(ROpenCL)
 p = oclPlatforms()
 d = oclDevices(p[[1]])
 

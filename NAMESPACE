@@ -1,4 +1,4 @@
-useDynLib(OpenCL)
+useDynLib(ROpenCL)
 exportPattern("^ocl")
 exportPattern("clFloat$")
 S3method(print, clDeviceID)

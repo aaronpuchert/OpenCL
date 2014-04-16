@@ -7,7 +7,7 @@
   Retrieve information about an OpenCL object.
 }
 \description{
-  Some OpenCL obejcts have information tokens associated with them. For
+  Some OpenCL objects have information tokens associated with them. For
   example the device obejct has a name, vendor, list of extensions etc.
   \code{oclInfo} returns a list of such properties for the given object.
 }
